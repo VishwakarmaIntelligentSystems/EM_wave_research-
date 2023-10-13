@@ -1,2 +1,2 @@
 # EM_wave_research-
-EM Wave_Research 
+A simulation showing the FM/AM manipulation based on various core parameters that impact data transfer 
